@@ -1,0 +1,1 @@
+DASHBOARD; la aplicación servidor está realizada en DOM,los clientes que son las vistas de sensores y ejecutores están realizados con VUE. 
